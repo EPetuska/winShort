@@ -1,0 +1,2 @@
+# winShort
+Shortcuts for Windows
